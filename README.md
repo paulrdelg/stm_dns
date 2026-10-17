@@ -1,0 +1,15 @@
+# STM DNS
+
+## Device
+
+SKU: Nucleo-C542RC
+
+## Chip
+
+STM32C542RCT6
+
+- USB SNK/UFP (FS mode)
+- USB Type C
+- STLINK-V3EC
+- 24 MHz HSE
+- LQFP64
